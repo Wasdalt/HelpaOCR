@@ -22,7 +22,7 @@ cd HelpaOCR
 
 4. Запустите установку с правами администратора:
 ```bash
-HelpaOCRInstaller.sh
+./HelpaOCRInstaller.sh
 ```
 
 
