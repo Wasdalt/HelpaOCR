@@ -20,7 +20,7 @@ git clone https://github.com/Wasdalt/HelpaOCR.git
 cd HelpaOCR
 ```
 
-4. Запустите установку с правами администратора:
+3. Запустите установку с правами администратора:
 ```bash
 ./HelpaOCRInstaller.sh
 ```
