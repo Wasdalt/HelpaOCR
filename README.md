@@ -1,1 +1,1 @@
-# HelpaOCR
+# Helpa OCR
