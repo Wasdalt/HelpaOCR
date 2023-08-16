@@ -22,5 +22,13 @@ git clone https://github.com/Wasdalt/HelpaOCR.git
 
 4. Запустите установку с правами администратора:
 ```bash
-  sudo ./HelpaOCRInstaller.sh
+  HelpaOCRInstaller.sh
+```
+
+
+## Деинсталляция
+
+Чтобы удалить программу, выполните следующую команду в терминале:
+```bash
+  uninstall-HelpaOCR.sh
 ```
