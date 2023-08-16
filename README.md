@@ -13,6 +13,7 @@ HelpaOCR - это удобная программа для Linux, которая
 1. Склонируйте репозиторий с помощью команды:
 ```bash
 git clone https://github.com/Wasdalt/HelpaOCR.git
+```
 
 2. Перейдите в директорию с проектом:
   cd HelpaOCR
