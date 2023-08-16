@@ -17,12 +17,12 @@ git clone https://github.com/Wasdalt/HelpaOCR.git
 
 2. Перейдите в директорию с проектом:
 ```bash
-  cd HelpaOCR
+cd HelpaOCR
 ```
 
 4. Запустите установку с правами администратора:
 ```bash
-  HelpaOCRInstaller.sh
+HelpaOCRInstaller.sh
 ```
 
 
@@ -30,5 +30,5 @@ git clone https://github.com/Wasdalt/HelpaOCR.git
 
 Чтобы удалить программу, выполните следующую команду в терминале:
 ```bash
-  uninstall-HelpaOCR.sh
+uninstall-HelpaOCR
 ```
