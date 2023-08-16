@@ -1,34 +1,34 @@
-# HelpaOCR - Программа для графической оболочки распознавания текста на Linux
+# HelpaOCR - Text Recognition Graphical Program for Linux
 
-HelpaOCR - это удобная программа для Linux, которая позволяет быстро сканировать текст из выделенной части экрана. Программа предоставляет графический интерфейс для выполнения распознавания текста с помощью определенных областей экрана.
+HelpaOCR is a convenient program for Linux that allows you to quickly scan text from a selected area of the screen.
 
-## Возможности
+## Features
 
-- Выделение и сканирование текста из любой частей экрана.
-- Простой и интуитивно понятный интерфейс.
-- Поддержка латиницы и кириллицы.
+- Select and scan text from any part of the screen.
+- Simple and intuitive interface.
+- Support for both Latin and Cyrillic characters.
 
-## Установка
+## Installation
 
-1. Склонируйте репозиторий с помощью команды:
+1. Clone the repository using the following command:
 ```bash
 git clone https://github.com/Wasdalt/HelpaOCR.git
 ```
 
-2. Перейдите в директорию с проектом:
+2. Navigate to the project directory:
 ```bash
 cd HelpaOCR
 ```
 
-3. Запустите установку с правами администратора:
+3. Run the installation with administrator privileges:
 ```bash
 ./HelpaOCRInstaller.sh
 ```
 
 
-## Деинсталляция
+## Uninstallation
 
-Чтобы удалить программу, выполните следующую команду в терминале:
+To remove the program, execute the following command in the terminal:
 ```bash
 uninstall-HelpaOCR
 ```
