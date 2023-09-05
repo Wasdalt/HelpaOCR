@@ -30,5 +30,5 @@ cd HelpaOCR
 
 To remove the program, execute the following command in the terminal:
 ```bash
-uninstall-HelpaOCR
+uninstall-helpaocr
 ```
