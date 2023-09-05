@@ -1,4 +1,4 @@
-# HelpaOCR - Text Recognition Graphical Program for Linux
+# HelpaOCR - A small graphical text recognition program for Linux
 
 HelpaOCR is a convenient program for Linux that allows you to quickly scan text from a selected area of the screen.
 
