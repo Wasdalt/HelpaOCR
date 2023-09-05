@@ -8,6 +8,10 @@ HelpaOCR is a convenient program for Linux that allows you to quickly scan text 
 - Simple and intuitive interface.
 - Support for both Latin and Cyrillic characters.
 
+## Limitation
+
+- While x11 protocol support
+
 ## Installation
 
 1. Clone the repository using the following command:
