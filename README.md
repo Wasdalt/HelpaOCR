@@ -16,12 +16,12 @@ HelpaOCR is a convenient program for Linux that allows you to quickly scan text 
 
 1. Clone the repository using the following command:
 ```bash
-git clone https://github.com/Wasdalt/HelpaOCR.git
+https://github.com/Wasdalt/HelpaOCR-Linux.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd HelpaOCR
+cd HelpaOCR-Linux
 ```
 
 3. Run the installation with administrator privileges:
